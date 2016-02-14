@@ -1,6 +1,6 @@
 {
   "name": "canvas-s-line",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Geometry type for canvas-tree representing S-shaped line",
   "main": "lib/index.js",
   "scripts": {
@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/RB-Lab/canvas-s-line.git"
+    "url": "git+https://github.com/skem-io/canvas-s-line.git"
   },
   "keywords": [
     "canvas",
@@ -23,9 +23,9 @@
   "author": "RB-Lab <rb@rblab.net>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/RB-Lab/canvas-s-line/issues"
+    "url": "https://github.com/skem-io/canvas-s-line/issues"
   },
-  "homepage": "https://github.com/RB-Lab/canvas-s-line#readme",
+  "homepage": "https://github.com/skem-io/canvas-s-line#readme",
   "devDependencies": {
     "babel-cli": "^6.5.1",
     "babel-core": "^6.5.1",
